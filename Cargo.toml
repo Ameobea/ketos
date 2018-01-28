@@ -27,7 +27,6 @@ path = "src/ketos/lib.rs"
 byteorder = "0.5.1"
 gumdrop = "0.1"
 gumdrop_derive = "0.1"
-linefeed = "0.2"
 num = "0.1.32"
 rand = "0.3"
 serde = { version = "1.0", optional = true }
